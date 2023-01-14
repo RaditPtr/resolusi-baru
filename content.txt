@@ -1,9 +1,12 @@
 Rencana content
 
+- Ngobar
+- Css Unit
+- Bootstrap
+- Flexbox
 - Tailwind
 - CSS Grid
 - SASS
-- Flexbox
 - Three Js
 - Particle Js
 - Tilt js
