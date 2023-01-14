@@ -5,6 +5,7 @@ Rencana content
   - Three Js
   - Particle Js
   - Tilt Js
+  - Nest JS
   - Next Js
   - Node Js
 - Css Unit
@@ -13,6 +14,5 @@ Rencana content
 - CSS Grid
 - SASS
 - Tailwind
-- Webpack
 
 
