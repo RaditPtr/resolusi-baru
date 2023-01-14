@@ -3,12 +3,12 @@ Rencana content
 - Ngobar
   - Three Js
   - Particle Js
-  - Tilt js
+  - Tilt Js
+  - Nest JS
 - Css Unit
 - Bootstrap
 - Flexbox
 - CSS Grid
 - SASS
 - Tailwind
-- Webpack
 
